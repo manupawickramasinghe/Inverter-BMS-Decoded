@@ -1,0 +1,6 @@
+[submodule "JK/JK"]
+	path = JK/JK
+	url = https://github.com/NEEY-electronic/JK.git
+[submodule "JK/JK-BMSToPylontechCAN"]
+	path = JK/JK-BMSToPylontechCAN
+	url = https://github.com/ArminJo/JK-BMSToPylontechCAN.git
